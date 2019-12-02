@@ -1,0 +1,55 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+/*    font-family: 'Rosario', sans-serif;*/
+    font-family: 'Exo 2', sans-serif;
+}
+.nav-sidebar{
+    margin: 70px 20px 20px 0px;
+}
+.nav-sidebar > li > a{
+    padding: 10px 0px; 
+}
+/*
+.sidebar{
+    display: none;
+}
+*/
+.main{
+    margin-top: 50px;
+/*    background-color: lightgray;*/
+}
+.placeholder{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.palceholder2{
+    margin-bottom: 20px
+}
+.palceholder2 img{
+    display: inline;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
